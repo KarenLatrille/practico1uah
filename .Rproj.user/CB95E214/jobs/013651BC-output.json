@@ -1,3 +1,0 @@
-[1,"==> quarto preview practico1uah.qmd --to html --no-watch-inputs --no-browse\n\n"]
-[1,"pandoc \n  to: html\n  output-file: practico1uah.html\n  standalone: true\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  editor: visual\n  title: 'voto obligatorio:ciudadanos que ejercen libremente su deber civico o ciudadania cohesionada'\n  author: karenlatrille\n  bibliography:\n    - practico1uah.qmd\n  \n"]
-[1,"Could not determine bibliography format for practico1uah.qmd\r\n"]

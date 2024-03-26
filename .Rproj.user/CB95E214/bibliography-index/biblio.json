@@ -1,0 +1,176 @@
+{
+    "sources": [
+        {
+            "DOI": "10.4067/S0718-090X2019000100075",
+            "ISSN": "0718-090X",
+            "abstract": "Por medio de un análisis de edad-período-cohorte, aplicado a datos de encuestas realizadas entre 1994 y 2015, buscamos comprender el declive de la participación electoral ocurrido en Chile durante la actual era democrática. Nuestro análisis confirma algunas hipótesis previas, pero también ilumina algunas nuevas tendencias. Primero, encontramos efectos de cohorte que indican que las generaciones que votaron durante el plebiscito de 1988 tienden a sufragar más que aquellas que se volvieron elegibles en democracia. Segundo, la propensión a votar de los chilenos aumenta con el envejecimiento, aunque este efecto es mucho más pronunciado entre las cohortes nacidas después de 1970. Por último, hallamos un marcado y negativo efecto período de carácter lineal, que implica un declive universal en la propensión a concurrir a las urnas de todos los grupos etarios.Palabras clave: participación electoral; generaciones; edad; período; Chile",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        3,
+                        25
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Bargsted",
+                    "given": "Matías"
+                },
+                {
+                    "family": "Somma",
+                    "given": "Nicolás M."
+                },
+                {
+                    "family": "Muñoz-Rojas",
+                    "given": "Benjamín"
+                },
+                {
+                    "family": "Bargsted",
+                    "given": "Matías"
+                },
+                {
+                    "family": "Somma",
+                    "given": "Nicolás M."
+                },
+                {
+                    "family": "Muñoz-Rojas",
+                    "given": "Benjamín"
+                }
+            ],
+            "container-title": "Revista de ciencia política (Santiago)",
+            "id": "bargstedElectoralTurnoutChile2019",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        4
+                    ]
+                ]
+            },
+            "page": "75-98",
+            "title": "Electoral Turnout in Chile: An Age-Period-Cohort Approach",
+            "title-short": "Electoral Turnout in Chile",
+            "type": "article-journal",
+            "volume": "39"
+        },
+        {
+            "abstract": "Resultados ELSOC 2016-2022",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        3,
+                        25
+                    ]
+                ]
+            },
+            "id": "CapituloTransformacionesPoliticas",
+            "title": "Capítulo 2 Transformaciones políticas  Radiografía del Cambio Social en Chile 2016-2022",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1017/s0022381608080651",
+            "abstract": "The consensus in the empirical literature on political participation is that education positively correlates with political participation. Theoretical explanations posit that education confers participation-enhancing benefits that in and of themselves cause political activity. As most of the variation in educational attainment arises between high school completion and decisions to enter postsecondary institutions, we focus our inquiry on estimating the effect of higher education on political participation. Our primary purpose is to test the conventional claim that higher education causes political participation. We utilize propensity-score matching to address the nonrandom assignment process that characterizes the acquisition of higher education. After the propensity-score matching process takes into account preadult experiences and influences in place during the senior year of high school, the effects of higher education per se on participation disappear. Our results thus call for a reconsideration of ho...",
+            "annote": "MAG ID: 2114892875",
+            "author": [
+                {
+                    "literal": "Cindy D. Kam"
+                },
+                {
+                    "family": "Kam",
+                    "given": "Cindy D."
+                },
+                {
+                    "literal": "Carl L. Palmer"
+                },
+                {
+                    "family": "Palmer",
+                    "given": "Carl L."
+                }
+            ],
+            "container-title": "The Journal of Politics",
+            "id": "cindyd.kamReconsideringEffectsEducation2008",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008,
+                        7
+                    ]
+                ]
+            },
+            "page": "612-631",
+            "title": "Reconsidering the Effects of Education on Political Participation",
+            "type": "article-journal",
+            "volume": "70"
+        },
+        {
+            "DOI": "10.14201/rlop.22307",
+            "ISSN": "1852-9003",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        3,
+                        25
+                    ]
+                ]
+            },
+            "container-title": "Revista Latinoamericana de Opinión Pública",
+            "id": "ComposicionElectoradoElecciones2015",
+            "issue": "0",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015,
+                        6
+                    ]
+                ]
+            },
+            "page": "49",
+            "title": "Composición del electorado en elecciones con voto obligatorio y voluntario: Un estudio cuasi experimental de la participación electoral en Chile",
+            "title-short": "Composición del electorado en elecciones con voto obligatorio y voluntario",
+            "type": "article-journal",
+            "volume": "5"
+        },
+        {
+            "DOI": "10.1017/S002238161100034X",
+            "ISSN": "0022-3816, 1468-2508",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        3,
+                        25
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Mayer",
+                    "given": "Alexander K."
+                }
+            ],
+            "container-title": "The Journal of Politics",
+            "id": "mayerDoesEducationIncrease2011",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011,
+                        7
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "633-645",
+            "title": "Does Education Increase Political Participation?",
+            "type": "article-journal",
+            "volume": "73"
+        }
+    ],
+    "project_biblios": []
+}
