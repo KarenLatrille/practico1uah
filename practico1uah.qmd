@@ -1,0 +1,29 @@
+---
+title:"voto obligatorio:ciudadanos que ejercen libremente su deber civico o ciudadania cohesionada
+"
+author: "karenlatrille"
+format: html
+editor: visual
+bibliography: practico1uah.qmd
+link-citations: true
+---
+
+## Voto obligatorio: ciudadanos que ejercen libremente su deber civico o ciudadania cohersionada
+
+## Introducción 
+
+Esta investigación analizaremos un tema que en los últimos años se ha acrecentado en la opinión público, y el ejercicio de la ciudadanía de las/os chilenos, la cual es la educación cívica y el regreso del voto obligatorio para todo aquel que sea ciudadano del país, en donde analizaremos el real alcance de esta obligatoriedad en el ejercicio popular, en donde, definiremos de forma clara los intereses y temores que involucra este cambio en las reglas del ejercicio de la soberanía del país, en donde con análisis estadístico y de literatura en torno a los diferentes aristas de este problema de investigación, centrándonos en las últimas elecciones plebiscitarias de los distintos momentos de las propuestas de las nuevas constituciones de la república, que a pesar de los resultados desfavorables para el proceso en su totalidad, si nos marca tendencias de participación cívica imperantes en Chile, y que sin educación cívica correcta no se podrá avanzar hacia un voto informado y consciente de las decisiones que el voto implica para cada uno de los ciudadanos y habitantes del país. 
+
+por lo anterior, es que nuestro concepto central a investigar será las clases de votantes y sus respectivas características, entendiéndose la existencia de tres grandes tipos, votante habitual, no votante y votante reactivo, que han tenido un distinto comportamiento en distintos procesos eleccionarios o de plebiscitos, con obligatoriedad en el voto y cuando no lo ha habido.
+
+Se espera que en medida vaya la investigación se concrete la hipótesis de que por un lado, es necesaria una educación cívica para todo aquel ciudadano que vaya a estar habilitado para votar en las distintas elecciones populares del país, en donde se conozcan tanto los deberes y derechos de los votantes y la importancia de realizar el deber cívico para una democracia sostenible en el país; lo cual nos lleva a la hipótesis central es que durante los últimos años no existe una mayor educación cívica en la población, sino un mayor sentimiento de cohesión medida por la obligatoriedad del voto, ya que uno de los grandes sentires de quienes dudaron en votar o derechamente no lo hacen es la desconfianza y desinterés en participar en la elección de líderes o reformas que no convocan al grueso de la población. Esto tal como lo menciona ELSOC como algo que podría ser el resultado de una arraigada desafección política, producida por falta de interés, poco sentido del impacto individual sobre los procesos políticos y desconfianza en las instituciones (Torcal & Montero, 2006), que muchas veces se puede ligar a la obtención o no de educación cívica durante la formación de cada uno de los ciudadanos, por lo que se puede asociar la decisión de voto como algo ligado incluso a la clase social y la concepción del deber país, donde se piensa en el bien común, versus quien piensa su decisión de voto de forma individualista, variables socio económicas marcadas en todo nuestro análisis investigativo.
+
+Asi como Mackenna manifiesta en su investigacion: los  ciudadanos  votan  para  lograr  que sus políticas preferidas sean promovidas por el gobierno. En consecuencia, deben tomar la decisión de participar de acuerdo con el contraste entre los costos (de inscripción, de información y de movilización) que implica votar y sus beneficios (que su candidato preferido resulte electo). Sin embargo, su candidato puede resultar electo con independencia de su voto, y en elecciones con tantos votantes la probabilidad de emitir un voto decisivo es prácticamente cero, lo que produce que los costos sean siempre mayores a los beneficios de votar. Esto lleva a lo que muchos han llamado la “paradoja de la participación” (Aldrich, 1993): a pesar de que no parece racional hacerlo, existe un número considerable de gente que vota. [@mackennaComposicionElectoradoElecciones2015a]
+
+Investigacion en donde nos encontraremos con resultados realmente dotados de informacion sociologica e interdisciplinaria en analisis del voto, con intereses y motivaciones, que hablan de la clase de sociedad que se esta viviendo en un Chile pos revuelta social y pos pandemia, fenomenos de distinta indole que calaron en distintas dimensiones personales y colectivas del pais.
+
+Referencias:
+
+COES (2023). Radiografía del Cambio Social: Análisis de Resultados Longitudinales ELSOC 2016-2022. Presentación de Resultados COES. Marzo, Santiago de Chile.
+
+Mackenna, B. (2015). Composición del electorado en elecciones con voto obligatorio y voluntario: un estudio cuasi experimental de la participación electoral en Chile. *Revista Latinoamericana De Opinión Pública*, *5*, 49–97. https://doi.org/10.14201/rlop.22307
